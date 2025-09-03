@@ -34,9 +34,6 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center flex-1 pt-32 pb-16 px-4">
         <section className="w-full max-w-2xl text-center mb-12">
           <h1 className="text-5xl md:text-6xl font-extrabold text-blue-800 mb-5 drop-shadow-lg">Support Hive</h1>
-          <p className="text-xl md:text-2xl text-gray-600 mb-8 font-medium">
-            Modern customer support platform for ticket management, knowledge sharing, and live performance monitoring.
-          </p>
         </section>
 
         {/* Features */}
